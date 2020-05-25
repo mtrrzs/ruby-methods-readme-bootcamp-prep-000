@@ -14,4 +14,3 @@ def the_woman_I_love
   puts phrase
 end
 
-the_woman_I_love
